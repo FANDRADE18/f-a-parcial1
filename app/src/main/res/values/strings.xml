@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginPageUi</string>
+    <string name="log_in">Login</string>
+    <string name="register">Register</string>
+    <string name="man">CABALLERO</string>
+    <string name="woman">DAMA</string>
+    <string name="categorias">CATEGORÍAS</string>
+
+
+</resources>
